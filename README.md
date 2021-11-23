@@ -1,5 +1,7 @@
-# ORM-hibernate-servlet-jsp-jstl-mvc-tomcat
-
+# ORM-hibernate-servlet-jsp-jstl-mvc-tomcat.
+importer un certain bombre de librarie hibernate.
+copier folder util et class HibernateUtil et coller dans src.
+copier class hibernate.cfg.xml et coller dans src.
 
 
 
